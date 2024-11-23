@@ -1,4 +1,4 @@
-# Chromebook Hacking Guide
+![image](https://github.com/user-attachments/assets/c9a6f791-2866-45da-b2cd-c76957a48dd7)# Chromebook Hacking Guide
 
 An updated exploit guide and wiki for a wide variety of chromebook exploits and tools.
 
@@ -26,3 +26,5 @@ Thanks to these people for making the guide possible ❤️
 </a>
 
 ___
+
+Follow the guide at [https://cb.whale.x10.mx/](https://cb.whale.x10.mx/docs/exploits/br1ck/)
