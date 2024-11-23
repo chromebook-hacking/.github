@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c9a6f791-2866-45da-b2cd-c76957a48dd7)# Chromebook Hacking Guide
+# Chromebook Hacking Guide
 
 An updated exploit guide and wiki for a wide variety of chromebook exploits and tools.
 
