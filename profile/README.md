@@ -1,1 +1,41 @@
 # Chromebook Hacking Guide
+
+An updated exploit guide and wiki for a wide variety of chromebook exploits and tools.
+
+## What does this guide do and install?
+
+This guide will:
+  + Downgrade (if neccesary) and obtain root access on your Chromebook
+  + Unenroll your Chromebook from management or set up a temporary sandboxed environment to the same effect
+    + Your device will be able to be used as a personal Chromebook, behaving as a normal device would behave - without blocking extensions like Securly and GoGuardian
+  + Run fakemurk to re-enroll your device (to avoid arousing suspicion with administrators) but still allow developer-mode functionality to run
+    + Your device will operate like an enrolled one, except have extensions of your choice disabled and have a modified user policy installed
+
+## What are the risks of following this guide?
+
+If you choose not to run fakemurk, then your administrator will be able to see your "Last Device Sync Date" slipping into the past. If they become suspicious enough, they may choose to physically investigate, then they would discover that you had unenrolled.
+
+If you do indeed run fakemurk, then your administrator will see that the "Last Device Sync Date" will constantly be updated, but there will be one "Developer Mode Enabled" alert on the device. However, the device will report that it is not currently in developer mode, and if your sysadmin is incompetent enough (as mine is) then you will be completely fine.
+
+### Contributors
+
+Thanks to these people for making the guide possible ❤️
+
+<a href="https://github.com/xytrux">
+  <img
+    src="https://avatars.githubusercontent.com/u/79881161?v=4"
+    width="70"
+    style={{ borderRadius: "50%" }}
+    alt="Avatar"
+  />
+</a>
+<a href="https://github.com/legoskid">
+  <img
+    src="https://avatars.githubusercontent.com/u/94498086?v=4"
+    width="70"
+    style={{ borderRadius: "50%" }}
+    alt="Avatar"
+  />
+</a>
+
+___
